@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "de7ca0bf736afd05",
+        "id": "907751dd0a2b285e",
         "type": "tabs",
-        "dimension": 47.525380710659896,
+        "dimension": 51.01522842639594,
         "children": [
           {
-            "id": "1a9e3ce3f3bc6c5f",
+            "id": "77a57a4853743f11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/Project map.md",
+                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "ca5d4ff74781617a"
+            "group": "182cfd15135d9a76"
           }
         ]
       },
       {
-        "id": "e55204b15c9e9bc3",
+        "id": "298d186716bbef05",
         "type": "tabs",
-        "dimension": 52.4746192893401,
+        "dimension": 48.984771573604064,
         "children": [
           {
-            "id": "5f51f06008225584",
+            "id": "2812181590ca91e7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/Project map.md",
+                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "ca5d4ff74781617a"
+            "group": "182cfd15135d9a76"
           }
         ]
       }
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Projects/MediaScout/Project map.md",
+                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Projects/MediaScout/Project map.md",
+                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Projects/MediaScout/Project map.md"
+                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md"
               }
             }
           }
@@ -169,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "5f51f06008225584",
+  "active": "77a57a4853743f11",
   "lastOpenFiles": [
-    "images/ProjectArchitecture.png",
-    "School/Projects/MediaScout/Project map.md",
-    "School/Projects/MediaScout/About.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Untitled.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+    "images/Unbenanntes Diagramm.drawio.png",
     "School/Projects/MediaScout/Software Documentation/Frontend/Enums.md",
     "School/Projects/MediaScout/Software Documentation/Frontend/Managers.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/Models.md",
     "School/Projects/MediaScout/Software Documentation/Frontend/Stores.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Models.md",
+    "School/Projects/MediaScout/About.md",
     "School/Projects/MediaScout/Technical Documentation.md",
-    "School/Projects/SledRental/Documentation.md",
     "School/Projects/MediaScout/Installation.md"
   ]
 }
