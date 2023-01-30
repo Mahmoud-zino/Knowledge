@@ -11,6 +11,7 @@ The server checks **every minute** for new posts to download.
 The entire project is documented on the `wiki`.
 
 # Documentation
+[[Project map]]
 ## Installation Documentation
 [[Installation]]
 ## Software Documentation
@@ -21,6 +22,9 @@ The entire project is documented on the `wiki`.
 4. [[Tasks]]
 5. [[Database]]
 ### Frontend
+1. [[Enums]]
+2. [[Managers]]
+3. [[Models]]
+4. [[Stores]]
 ## Technical Documentation
 [[Technical Documentation]]
-## Test Documentation

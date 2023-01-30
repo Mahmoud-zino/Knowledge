@@ -4,40 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "907751dd0a2b285e",
+        "id": "de7ca0bf736afd05",
         "type": "tabs",
+        "dimension": 47.525380710659896,
         "children": [
           {
-            "id": "6007ed36a826f996",
+            "id": "1a9e3ce3f3bc6c5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/About.md",
+                "file": "School/Projects/MediaScout/Project map.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "953e91c6224be347"
+            "group": "ca5d4ff74781617a"
           }
         ]
       },
       {
-        "id": "6787e50a02f93e59",
+        "id": "e55204b15c9e9bc3",
         "type": "tabs",
+        "dimension": 52.4746192893401,
         "children": [
           {
-            "id": "014119f32c8a45d8",
+            "id": "5f51f06008225584",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/About.md",
+                "file": "School/Projects/MediaScout/Project map.md",
                 "mode": "preview",
-                "source": true
+                "source": false
               }
             },
-            "group": "953e91c6224be347"
+            "group": "ca5d4ff74781617a"
           }
         ]
       }
@@ -105,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Projects/MediaScout/About.md",
+                "file": "School/Projects/MediaScout/Project map.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Projects/MediaScout/About.md",
+                "file": "School/Projects/MediaScout/Project map.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Projects/MediaScout/About.md"
+                "file": "School/Projects/MediaScout/Project map.md"
               }
             }
           }
@@ -167,17 +169,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6007ed36a826f996",
+  "active": "5f51f06008225584",
   "lastOpenFiles": [
-    "School/Projects/MediaScout/Technical Documentation.md",
+    "images/ProjectArchitecture.png",
+    "School/Projects/MediaScout/Project map.md",
     "School/Projects/MediaScout/About.md",
-    "School/Projects/MediaScout/Installation.md",
-    "School/Projects/MediaScout/Software Documentation/Backend/Database.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Enums.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Managers.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Models.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Stores.md",
+    "School/Projects/MediaScout/Technical Documentation.md",
     "School/Projects/SledRental/Documentation.md",
-    "School/Projects/SledRental/Images/DBDiagram.png",
-    "Tech-Stack.md",
-    "School/Projects/MediaScout/Software Documentation/Backend/Tasks.md",
-    "School/Projects/MediaScout/Software Documentation/Backend/Project Setup.md",
-    "School/Projects/MediaScout/Software Documentation/Backend/Container.md"
+    "School/Projects/MediaScout/Installation.md"
   ]
 }
