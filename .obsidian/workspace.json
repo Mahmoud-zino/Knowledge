@@ -1,0 +1,183 @@
+{
+  "main": {
+    "id": "8f787b404e80939d",
+    "type": "split",
+    "children": [
+      {
+        "id": "907751dd0a2b285e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6007ed36a826f996",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Projects/MediaScout/About.md",
+                "mode": "source",
+                "source": true
+              }
+            },
+            "group": "953e91c6224be347"
+          }
+        ]
+      },
+      {
+        "id": "6787e50a02f93e59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "014119f32c8a45d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "School/Projects/MediaScout/About.md",
+                "mode": "preview",
+                "source": true
+              }
+            },
+            "group": "953e91c6224be347"
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4f182971c162187a",
+    "type": "split",
+    "children": [
+      {
+        "id": "6ddfd1f6051b897e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4fbf851bf1a50835",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "69a0ff3bbfe414b4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7690b1a2c055ae69",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "631eb07944cb6530",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a6c68b9509a618",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a2e1f425181ccf9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "School/Projects/MediaScout/About.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59bb7cc69ac95e66",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "School/Projects/MediaScout/About.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b84e7a03f246556b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c18a373253d11e81",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "School/Projects/MediaScout/About.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6007ed36a826f996",
+  "lastOpenFiles": [
+    "School/Projects/MediaScout/Technical Documentation.md",
+    "School/Projects/MediaScout/About.md",
+    "School/Projects/MediaScout/Installation.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Database.md",
+    "School/Projects/SledRental/Documentation.md",
+    "School/Projects/SledRental/Images/DBDiagram.png",
+    "Tech-Stack.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Tasks.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Project Setup.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Container.md"
+  ]
+}
