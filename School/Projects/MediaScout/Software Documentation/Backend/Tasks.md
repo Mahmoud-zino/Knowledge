@@ -65,7 +65,8 @@ the tasks are then run from the docker container, with help of the following com
 celery -A mediaScout_django worker --beat --loglevel=info
 ```
 
-> Note: this command works only in linux environment for windows another command should be used.
+> [!info] Note
+> this command works only in linux environment for windows another command should be used.
 
 ## Available Tasks
 

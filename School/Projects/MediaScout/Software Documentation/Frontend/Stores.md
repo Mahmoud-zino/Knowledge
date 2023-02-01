@@ -7,12 +7,9 @@ The AlertStore is shared on the entire application for warnings/errors to be sho
 |:-----------:|:--------:|:----------:|
 |    message     | string \| null  | Message to display on the page. |
 
-### Usage
-
-```js
+> [!example]- Usage
+> ```js
 // Show alert with message
 showAlert.set(`Message to show!`)
-
 // Clear alert
 showAlert.set(null)
-```

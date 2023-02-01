@@ -17,4 +17,5 @@ The ButtonStyles enum is used for the diffrent states the input box for a channe
 ## SocialTabs
 
 The SocialTabs enum is used to differentiate between the two tabs in teh app.
-(Option: Twitter has not been implemented yet.)
+> [!todo] Option
+Twitter has not been implemented yet.

@@ -40,7 +40,9 @@ Therefore, Celery was used to take full advantage of the asynchronous workers.
 > The YouTube API is an API developed by Google that allows developers to access and interact with YouTube content and functionality.
 
 It is used to check if a channel ID is correct and to retrieve YouTube videos Ids from the channel.
-> Note: We can't download videos using the YouTube API.
+
+> [!info] Note
+> We can't download videos using the YouTube API.
 
 ### Pytube
 > is a Python library that allows you to download YouTube videos and extract information about them. It provides a simple and easy-to-use interface for downloading YouTube videos, as well as for accessing various video details such as title, description, and thumbnail.

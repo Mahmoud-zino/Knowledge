@@ -4,42 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "907751dd0a2b285e",
+        "id": "e55204b15c9e9bc3",
         "type": "tabs",
-        "dimension": 51.01522842639594,
+        "dimension": 46.43895348837209,
         "children": [
           {
-            "id": "77a57a4853743f11",
+            "id": "3ebf8c19af861b9f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+                "file": "School/Projects/MediaScout/MediaScout.md",
                 "mode": "source",
                 "source": true
               }
             },
-            "group": "182cfd15135d9a76"
+            "group": "6ec2f0202101736d"
           }
         ]
       },
       {
-        "id": "298d186716bbef05",
+        "id": "fa1e3594b5f64a6e",
         "type": "tabs",
-        "dimension": 48.984771573604064,
+        "dimension": 53.56104651162791,
         "children": [
           {
-            "id": "2812181590ca91e7",
+            "id": "2fd5dc5220f307be",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+                "file": "School/Projects/MediaScout/MediaScout.md",
                 "mode": "preview",
                 "source": false
               }
             },
-            "group": "182cfd15135d9a76"
+            "group": "6ec2f0202101736d"
           }
         ]
       }
@@ -91,7 +91,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "631eb07944cb6530",
@@ -107,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+                "file": "School/Projects/MediaScout/MediaScout.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+                "file": "School/Projects/MediaScout/MediaScout.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md"
+                "file": "School/Projects/MediaScout/MediaScout.md"
               }
             }
           },
@@ -177,17 +178,17 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "77a57a4853743f11",
+  "active": "3ebf8c19af861b9f",
   "lastOpenFiles": [
-    "School/Projects/MediaScout/Software Documentation/Frontend/Untitled.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
-    "images/Unbenanntes Diagramm.drawio.png",
-    "School/Projects/MediaScout/Software Documentation/Frontend/Enums.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/Managers.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/Stores.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/Models.md",
-    "School/Projects/MediaScout/About.md",
     "School/Projects/MediaScout/Technical Documentation.md",
-    "School/Projects/MediaScout/Installation.md"
+    "images/LoggenIn.png",
+    "School/Projects/MediaScout/MediaScout.md",
+    "Desired.md",
+    "Untitled.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
+    "School/Projects/MediaScout/About.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/API.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Database.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Container.md"
   ]
 }

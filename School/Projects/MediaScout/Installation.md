@@ -2,7 +2,8 @@
 1. Runing `npm run build` on the front end will compile all frontend components, create a html template and replace the old one in django app.
 2. Running docker compose using `docker-compose up` will build and run the container hosting the website to http://localhost:8000
 
-> Note: To host the app publicly, a web server (like `Apache` or `Nginx`) will be needed.
+> [!info] Note
+> To host the app publicly, a web server (like `Apache` or `Nginx`) will be needed.
 
 ## Deinstallation steps
 1. Delete the container using 

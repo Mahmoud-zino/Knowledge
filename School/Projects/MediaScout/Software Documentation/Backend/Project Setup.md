@@ -73,7 +73,8 @@ CORS_ALLOW_HEADERS = [
 ]
 ```
 
-> Note: CorsMiddleware should be placed as high as possible, especially before any middleware that can generate responses such as CommonMiddleware.
+> [!info] Note
+> CorsMiddleware should be placed as high as possible, especially before any middleware that can generate responses such as CommonMiddleware.
 
 ## Setup SQLite
 
@@ -149,7 +150,8 @@ load_dotenv()
 API_KEY = os.getenv('API_KEY')
 ```
 
-> Note that `.env` file should be ignored in the `.gitignore` file so no keys are leaked to github.
+> [!info] Note
+> that `.env` file should be ignored in the `.gitignore` file so no keys are leaked to github.
 
 ## Youtube API
 
