@@ -4,7 +4,8 @@
 ---
 ## Celery
 
-> Celery is an open-source task queue or job queue written in Python that allows you to run asynchronous tasks in the background. It can be used to offload long-running tasks from a web application so that the web server can continue to handle new requests. Celery uses a message broker (such as RabbitMQ or Redis) to communicate between the web application and the task queue. This allows tasks to be added to the queue and executed by worker processes on separate machines, making it useful for distributed systems.
+>[!info] Description 
+>Celery is an open-source task queue or job queue written in Python that allows you to run asynchronous tasks in the background. It can be used to offload long-running tasks from a web application so that the web server can continue to handle new requests. Celery uses a message broker (such as RabbitMQ or Redis) to communicate between the web application and the task queue. This allows tasks to be added to the queue and executed by worker processes on separate machines, making it useful for distributed systems.
 
 ## Setup
 
@@ -45,9 +46,9 @@ from .celery import app as celery_app
 __all__ = ('celery_app',)
 ```
 
-Tasks are then added in `tasks.py` in api app.
+Tasks are then added in `tasks.py` in API app.
 
-> example
+Example
 
 ```py
 from celery import shared_task
@@ -66,12 +67,14 @@ celery -A mediaScout_django worker --beat --loglevel=info
 ```
 
 > [!info] Note
-> this command works only in linux environment for windows another command should be used.
+> this command works only in Linux environment for windows another command should be used.
 
 ## Available Tasks
 
 ### update_youtube_videos
-Is executed every 60 seconds and searches all channels exiting in the data base and try to get a list of youtube videos that are not already installed.
+Is executed every 60 seconds and searches all channels exiting in the database and try to get a list of YouTube videos that are not already installed.
 
 ### download_new_videos
 Downloads a video when triggered.
+
+<div style="page-break-after: always;"></div>

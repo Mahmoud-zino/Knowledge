@@ -8,7 +8,10 @@
     "Pytube",
     "Masooglu",
     "Masooglu",
-    "Axios"
+    "Axios",
+    "Deinstallation",
+    "python-dotenv",
+    "axios"
   ],
   "pdfExportSettings": {
     "includeName": true,

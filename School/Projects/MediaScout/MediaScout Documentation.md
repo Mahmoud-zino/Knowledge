@@ -5,8 +5,6 @@ The posts are stored in a dedicated database to ensure the preservation of the d
 The server checks **every minute** for new posts to download.
 The entire project is documented on the `wiki`.
 
-# Documentation
-![[MediaScout]]
 ## Installation Documentation
 ![[Installation]]
 ## Software Documentation
@@ -23,3 +21,12 @@ The entire project is documented on the `wiki`.
 4. ![[Stores]]
 ## Technical Documentation
 ![[Technical Documentation]]
+
+---
+<div style="display: flex; justify-content: space-between">
+<span>Mahmoud Zino</span>
+<span>Simon Masooglu</span>
+</div>
+<br>
+<div>4APEC</div>
+<div>©MediaScout</div>

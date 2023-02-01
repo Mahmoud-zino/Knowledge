@@ -1,11 +1,16 @@
 ## Possible errors
-### Server has no Internet connection
-Adding a new channel when the server has no internet connection will be displayed on the UI, as the channel ID is not fetchable.
-### Server unstable internet connection
+>[!error] 
+>Server has no Internet connection
+>Adding a new channel when the server has no internet connection will be displayed on the UI, as the channel ID is not fetchable.
+
+>[!error] 
+>Server unstable internet connection
 If the connection with the internet is lost while downloading a video, the video is displayed as downloaded in the database and the download will never be restarted, causing a corrupted video file.
-### Duplicated User with the same Channel ID
-When adding a duplicated User with the same channel ID, the new user is saved to the database, but the videos are not retrieved again because they are unique in the database.
-On the UI, the duplicated user is displayed with empty page.
+
+>[!error] 
+>Duplicated User with the same Channel ID
+>When adding a duplicated User with the same channel ID, the new user is saved to the database, but the videos are not retrieved again because they are unique in the database.
+>On the UI, the duplicated user is displayed with empty page.
 ## Logging
 1. Backend: Every action is logged right now to the `Console` using the Django logging module.
 2. Frontend: No logs are used at the moment.
@@ -37,14 +42,16 @@ Downloading the videos Synchronously will block the main thread of the server, c
 Therefore, Celery was used to take full advantage of the asynchronous workers.
 ## Third party Software
 ### YouTube API
+>[!info]
 > The YouTube API is an API developed by Google that allows developers to access and interact with YouTube content and functionality.
 
 It is used to check if a channel ID is correct and to retrieve YouTube videos Ids from the channel.
 
-> [!info] Note
+> [!note] Note
 > We can't download videos using the YouTube API.
 
 ### Pytube
+>[!info]
 > is a Python library that allows you to download YouTube videos and extract information about them. It provides a simple and easy-to-use interface for downloading YouTube videos, as well as for accessing various video details such as title, description, and thumbnail.
 
 It is used to get videos information and download the videos.

@@ -6,7 +6,7 @@
       {
         "id": "e55204b15c9e9bc3",
         "type": "tabs",
-        "dimension": 46.43895348837209,
+        "dimension": 48.11046511627907,
         "children": [
           {
             "id": "3ebf8c19af861b9f",
@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/MediaScout.md",
+                "file": "School/Projects/MediaScout/MediaScout Documentation.md",
                 "mode": "source",
                 "source": true
               }
@@ -26,7 +26,7 @@
       {
         "id": "fa1e3594b5f64a6e",
         "type": "tabs",
-        "dimension": 53.56104651162791,
+        "dimension": 51.889534883720934,
         "children": [
           {
             "id": "2fd5dc5220f307be",
@@ -34,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "School/Projects/MediaScout/MediaScout.md",
+                "file": "School/Projects/MediaScout/MediaScout Documentation.md",
                 "mode": "preview",
                 "source": false
               }
@@ -91,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "631eb07944cb6530",
@@ -108,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "School/Projects/MediaScout/MediaScout.md",
+                "file": "School/Projects/MediaScout/MediaScout Documentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "School/Projects/MediaScout/MediaScout.md",
+                "file": "School/Projects/MediaScout/MediaScout Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "School/Projects/MediaScout/MediaScout.md"
+                "file": "School/Projects/MediaScout/MediaScout Documentation.md"
               }
             }
           },
@@ -180,15 +179,15 @@
   },
   "active": "3ebf8c19af861b9f",
   "lastOpenFiles": [
-    "School/Projects/MediaScout/Technical Documentation.md",
-    "images/LoggenIn.png",
     "School/Projects/MediaScout/MediaScout.md",
-    "Desired.md",
-    "Untitled.md",
-    "School/Projects/MediaScout/Software Documentation/Frontend/User interface.md",
-    "School/Projects/MediaScout/About.md",
-    "School/Projects/MediaScout/Software Documentation/Backend/API.md",
+    "School/Projects/MediaScout/MediaScout Documentation.md",
+    "School/Projects/MediaScout/Technical Documentation.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Stores.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Models.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Enums.md",
+    "School/Projects/MediaScout/Software Documentation/Frontend/Managers.md",
     "School/Projects/MediaScout/Software Documentation/Backend/Database.md",
+    "School/Projects/MediaScout/Software Documentation/Backend/Tasks.md",
     "School/Projects/MediaScout/Software Documentation/Backend/Container.md"
   ]
 }

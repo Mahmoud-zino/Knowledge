@@ -1,3 +1,4 @@
+
 ## Diagram
 
-![Data base diagram](Images/DBDiagram.png)
+![Data base diagram | 350](Images/DBDiagram.png)

@@ -1,5 +1,5 @@
 ## Installation steps
-1. Runing `npm run build` on the front end will compile all frontend components, create a html template and replace the old one in django app.
+1. Running `npm run build` on the front end will compile all frontend components, create a HTML template and replace the old one in Django app.
 2. Running docker compose using `docker-compose up` will build and run the container hosting the website to http://localhost:8000
 
 > [!info] Note
@@ -20,23 +20,26 @@
 	```
 
 
-## Important urls
-1. Base Url: http://localhost:8000
-2. API Url: http://localhost:8000/api
-3. Rabbitmq Dashboard Url: http://localhost:15672
+## Important URLs
+1. Base URL: http://localhost:8000
+2. API URL: http://localhost:8000/api
+3. RabbitMQ Dashboard URL: http://localhost:15672
 
 ## Required Hardware
-1. Any pc (windows or linux).
-2. Internet Access (downloading videos from youtube requires internet access*)
-3. enough space for all the downloaded youtube videos.
+1. Any pc (windows or Linux).
+2. Internet access (downloading videos from YouTube requires internet access*)
+3. enough space for all the downloaded YouTube videos.
 
 ## Required Software
 1. Docker engine (to run docker container)
 
 ## Operating system
 The docker container can run on Windows or Linux.
-It will download and setup an `python-alpine-linux` operating system for hosting the app.
+It will download and set up an `python-alpine-linux` operating system for hosting the app.
 ### Linux
-linux was chosen as an operating system, because it is developer friendly operating system and rabbitmq works only on linux.
+linux was chosen as an operating system, because it is developer friendly operating system and RabbitMQ works only on Linux.
 ### Alpine
 Alpine was chosen because it is very lightweight and easy to work with.
+
+
+<div style="page-break-after: always;"></div>
